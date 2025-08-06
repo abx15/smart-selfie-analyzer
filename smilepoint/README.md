@@ -68,12 +68,11 @@ smilepoint/
 
 1. Clone the repository:
 
-- wait kro mil jayega jald hi
-<!-- ```bash
+ ```bash
 git clone https://github.com/abx15/smilepoint.git
 cd smilepoint
 
-````-->
+````
 
 2. Import the database:
 - Open phpMyAdmin
